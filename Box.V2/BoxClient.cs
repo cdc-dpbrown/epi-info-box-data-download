@@ -1,4 +1,4 @@
-﻿using Box.V2.Auth;
+using Box.V2.Auth;
 using Box.V2.Config;
 using Box.V2.Converter;
 using Box.V2.Managers;
@@ -273,6 +273,7 @@ namespace Box.V2
         /// </summary>
         public BoxMetadataCascadePolicyManager MetadataCascadePolicyManager { get; private set; }
 
+        /// <summary>
         /// The manager that represents the storage policies endpoint
         /// </summary>
         public BoxStoragePoliciesManager StoragePoliciesManager { get; private set; }
