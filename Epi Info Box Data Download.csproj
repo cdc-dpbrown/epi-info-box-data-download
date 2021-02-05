@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Epi_Info_Box_Data_Download</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+</Project>
